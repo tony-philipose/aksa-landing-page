@@ -1,0 +1,9 @@
+PATH=$PATH:$HOME/local/bin:$HOME/bin:/opt/jdk1.8.0_161/bin:/usr/bin:/home/local/ASSYST-COC/sreekumari/python-work:/home/local/ASSYST-COC/sreekumari/sree/Spark/spark-2.2.1-bin-hadoop2.7/bin:/home/local/ASSYST-COC/sreekumari/sree/Spark/sbt/bin:/user/bin/python3.5
+$SPARK_HOME=/home/local/ASSYST-COC/sreekumari/sree/Spark/spark-2.2.1-bin-hadoop2.7
+$JAVA_HOME=/opt/jdk1.8.0_161
+export SPARK_HOME
+export JAVA_HOME
+export PATH
+
+
+/home/local/ASSYST-COC/tony.p
